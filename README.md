@@ -1,6 +1,7 @@
 
 # blinkit-sales-dashboard
-![Uploading image.png…]()
+![download (5)](https://github.com/user-attachments/assets/83f74a6b-4213-47f2-8087-6b91e44c8aac)
+
 ## 🔍 Key Insights
 - **Total Sales:** $1.20M across 8,523 items
 - **Average Sales per Outlet:** $141
